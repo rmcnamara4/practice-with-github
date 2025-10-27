@@ -1,2 +1,2 @@
 "Line 1"
-"Line from feature branch"
+"Line from both branches merged together"
